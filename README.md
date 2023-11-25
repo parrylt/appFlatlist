@@ -16,6 +16,8 @@ Um app feito para a aula de Mobile I do curso de Desenvolvimento de Sistemas da 
 </div>
 <br><br>
 
+link para o snack: https://snack.expo.dev/@romulojr/dimensions_e_flatlist
+
 agora fiquem com as mensagens do snack
 # Sample Snack app
 
