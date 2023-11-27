@@ -1,4 +1,4 @@
-Um app feito para a aula de Mobile I do curso de Desenvolvimento de Sistemas da Etec de Guarulhos com o professor Silvio Florentino. Atividade para usar Flatlist.
+Um app feito para a aula de Mobile I do curso de Desenvolvimento de Sistemas da Etec de Guarulhos com o professor Silvio Florentino. Atividade para usar Flatlist. 2023.
 <br><br>
 <div align="center">
   <h3>A primeira coisa que a gente vê quando abre o app. O background é um gif</h3>
